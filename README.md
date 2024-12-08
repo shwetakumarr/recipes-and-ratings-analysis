@@ -48,8 +48,8 @@ By focusing on these columns, we aim to analyze which factors play a role in rec
 
 ### Final Dataset
 | name                                 |   minutes | tags               |   n_steps |   n_ingredients |   avg_rating |   num_ratings |   calories |   total_fat |   sugar |   sodium |   protein |   saturated_fat |   carbohydrates |
-|:-------------------------------------|----------:|--------------------|----------:|----------------:|-------------:|--------------:|-----------:|------------:|--------:|---------:|----------:|----------------:|----------------:|
-| 1 brownies in the world best ever    |        40 | 60-minutes-or-less |        10 |               9 |            4 |             1 |      138.4 |          10 |      50 |        3 |         3 |              19 |               6 |
+|:-------------------------------------|----------:|:-------------------|----------:|----------------:|-------------:|--------------:|-----------:|------------:|--------:|---------:|----------:|----------------:|----------------:|
+| 1 brownies in the world    best ever |        40 | 60-minutes-or-less |        10 |               9 |            4 |             1 |      138.4 |          10 |      50 |        3 |         3 |              19 |               6 |
 | 1 in canada chocolate chip cookies   |        45 | 60-minutes-or-less |        12 |              11 |            5 |             1 |      595.1 |          46 |     211 |       22 |        13 |              51 |              26 |
 | 412 broccoli casserole               |        40 | 60-minutes-or-less |         6 |               9 |            5 |             4 |      194.8 |          20 |       6 |       32 |        22 |              36 |               3 |
 | millionaire pound cake               |       120 | 4-hours-or-less    |         7 |               7 |            5 |             1 |      878.3 |          63 |     326 |       13 |        20 |             123 |              39 |
