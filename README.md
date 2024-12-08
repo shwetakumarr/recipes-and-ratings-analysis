@@ -55,3 +55,17 @@ By focusing on these columns, we aim to analyze which factors play a role in rec
 | millionaire pound cake               |       120 | 4-hours-or-less    |         7 |               7 |            5 |             1 |      878.3 |          63 |     326 |       13 |        20 |             123 |              39 |
 | 2000 meatloaf                        |        90 | 4-hours-or-less    |        17 |              13 |            5 |             2 |      267   |          30 |      12 |       12 |        29 |              48 |               2 |
 
+
+### Univariate Analysis
+<iframe
+  src="assets/uni_anlysis.html"
+  width="800"
+  height="600"
+  frameborder="0"
+></iframe>
+
+This plot shows the distribution of the number of ingredients column over the entire dataset. It appears that the plot has a right skew but is unimodal and normally distributed.
+
+
+
+
