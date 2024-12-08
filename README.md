@@ -18,16 +18,16 @@ Understanding the factors that affect recipe preparation time helps home cooks p
 - **Number of Rows:** `234428` rows.
 
 ### Relevant Columns
-| Variable          | Description                                                                 |
-|-------------------|-----------------------------------------------------------------------------|
-| `name`            | The name of the recipe.                                                    |
-| `minutes`         | The time required to prepare the recipe, in minutes.                       |
-| `tags`            | Categories or labels associated with the recipe (e.g., 'quick', 'vegan').  |
-| `avg_rating`      | The average user rating for the recipe, on a scale of 1-5.                 |
-| `num_ratings`     | The total number of ratings submitted for the recipe.                      |
-| `n_steps`         | The number of steps required to prepare the recipe.                        |
-| `n_ingredients`   | The number of ingredients needed for the recipe.                           |
-| `calories`        | The number of calories in the recipe.                                      |
+| Variable      | Description                                                               |
+|:--------------|:--------------------------------------------------------------------------|
+| name          | The name of the recipe.                                                   |
+| minutes       | The time required to prepare the recipe, in minutes.                      |
+| tags          | Categories or labels associated with the recipe (e.g., 'quick', 'vegan'). |
+| avg_rating    | The average user rating for the recipe, on a scale of 1-5.                |
+| num_ratings   | The total number of ratings submitted for the recipe.                     |
+| n_steps       | The number of steps required to prepare the recipe.                       |
+| n_ingredients | The number of ingredients needed for the recipe.                          |
+| calories      | The number of calories in the recipe.                                     |
 
 By focusing on these columns, we aim to analyze which factors play a role in recipe completion time.
 
