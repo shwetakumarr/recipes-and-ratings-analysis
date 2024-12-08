@@ -19,7 +19,7 @@ Understanding the factors that affect recipe preparation time helps home cooks p
 
 ### Relevant Columns
 | Variable      | Description                                                               |
-|:--------------|:--------------------------------------------------------------------------|
+|:--------------|--------------------------------------------------------------------------:|
 | name          | The name of the recipe.                                                   |
 | minutes       | The time required to prepare the recipe, in minutes.                      |
 | tags          | Categories or labels associated with the recipe (e.g., 'quick', 'vegan'). |
