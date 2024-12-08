@@ -18,6 +18,7 @@ Understanding the factors that affect recipe preparation time helps home cooks p
 - **Number of Rows:** `234428` rows.
 
 ### Relevant Columns
+
 | Variable      | Description                                                               |
 |:--------------|:--------------------------------------------------------------------------|
 | name          | The name of the recipe.                                                   |
@@ -49,6 +50,7 @@ By focusing on these columns, we aim to analyze which factors play a role in rec
 8. Filtered out the dataset on these specific tags to reduce the size of the dataset and make it easier to work with.
 
 ### Final Dataset
+
 | name                              | minutes | tags               | n_steps | n_ingredients | avg_rating | num_ratings | calories | total_fat | sugar | sodium | protein | saturated_fat | carbohydrates |
 |-----------------------------------|---------|--------------------|---------|---------------|------------|-------------|----------|-----------|-------|--------|---------|----------------|----------------|
 | 1 brownies in the world best ever | 40      | 60-minutes-or-less | 10      | 9             | 4          | 1           | 138.4    | 10        | 50    | 3      | 3       | 19             | 6              |
